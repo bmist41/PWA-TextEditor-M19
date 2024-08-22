@@ -12,11 +12,7 @@ A PWA browser based text editor application.
 https://pwa-texteditor-m19.onrender.com
 
 ## Usage
-To use the application, follow the steps provided below.
-1. Clone the repository to your local machine.
-2. Initialize NPM 
-3. Install dependancies
-4. Start the server [node server.js]
+To use the application, visit the provided URL.
 
 
 ## License
